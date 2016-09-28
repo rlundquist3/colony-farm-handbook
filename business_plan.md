@@ -103,23 +103,23 @@ The company realizes that eating insects is something about which many in North 
 ### 6. Finances
 
 #### 6.1. Calculations
-> __cricket production:__
+__cricket production:__
 
-> estimated production of 3900 pounds per month
+estimated production of 3900 pounds per month
 
-> current wholesale price is about $4/lb
+current wholesale price is about $4/lb
 
-> 3900 lbs/mo * $4/lb = $15,600/mo
+$$3900 lbs/mo * $4/lb = $15,600/mo$$
 
-> 1298 sqft farming areas
+1298 sqft farming area
 
-> $15,6000/mo / 1298 sqft = $12/sqft/mo
+$$$15,6000/mo / 1298 sqft = $12/sqft/mo$$
 
-> __cricket frass production:__
+__cricket frass production:__
 
-> ~.5 lbs frass/lb crickets
+~.5 lbs frass/lb crickets
 
-> .5 \* 3900 lbs/mo \* $1.50/lb = $2925 (potential)
+$$.5 * 3900 lbs/mo * $1.50/lb = $2925$$ (potential)
 
 #### 6.2. Startup Projections
 The following are year one projections of best-case (with loan) and worst-case (without loan) scenarios. The loan that has been applied for would allow us to be at full production within 2 months. Without a loan, we would be able to reach this production within 6-8 months after earning sufficient funds to pay for larger production space. The worst-case projection does not take this scale-up into account (i.e. revenue would likely be higher).
